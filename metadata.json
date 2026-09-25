@@ -1,0 +1,6 @@
+{
+  "name": "C4 Architecture Explorer & Editor",
+  "description": "Interactive software architecture knowledge base and living diagram explorer powered by the C4 model with progressive disclosure and live markup editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
